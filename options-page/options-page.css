@@ -1,0 +1,15 @@
+.postbox .hndle {
+  cursor: pointer;
+}
+
+.hint {
+  font-style: italic;
+  font-size: .9em;
+}
+
+.pro-notice {
+  color: red;
+  font-style: italic;
+}
+
+input.short { width: 40px }
